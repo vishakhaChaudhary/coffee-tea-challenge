@@ -1,5 +1,3 @@
-# Coffee and Tee List - MVST challenge Backend
-
 ## Installation
 
 ```bash
