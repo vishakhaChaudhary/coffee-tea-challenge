@@ -2,9 +2,9 @@
   To get started with the challenge, first read the rest of this readme. Then you can go on and 
   read the README.md inside the frontend and backend folders.
   
-  [Backend README](https://github.com/mvst-h/mvst-coffee-tea-challenge/blob/master/backend/README.md)
+  [Backend README](https://github.com/vishakhaChaudhary/coffee-tea-challenge/blob/main/backend/README.md)
   
-  [Frontend README](https://github.com/mvst-h/mvst-coffee-tea-challenge/blob/master/frontend/README.md)
+  [Frontend README](https://github.com/vishakhaChaudhary/coffee-tea-challenge/blob/main/frontend/README.md)
 
 ## Introduction Task 
 
